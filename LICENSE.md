@@ -1,0 +1,1 @@
+See the [Licensing information](https://github.com/emaballarin/FLASIO/blob/main/README.md#licensing-information) and [Disclaimer of Responsibility](https://github.com/emaballarin/FLASIO/blob/main/README.md#disclaimer-of-responsibility) contained in the [Project README](https://github.com/emaballarin/FLASIO/blob/main/README.md).
