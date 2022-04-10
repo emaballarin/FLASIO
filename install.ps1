@@ -3,6 +3,6 @@
 #
 
 mkdir "C:\Program Files"
-cp -Recurse .\Image-Line\ "C:\Program Files\"
-cd "C:\Program Files\Image-Line\FL Studio ASIO\"
+Copy-Item -Recurse .\Image-Line\ "C:\Program Files\"
+Set-Location "C:\Program Files\Image-Line\FL Studio ASIO\"
 registerAsioDriver.bat
