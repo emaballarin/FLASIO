@@ -1,7 +1,7 @@
 # `FLASIO`
 
-Ready-to-install, official [FL (Fruity Loops) Studio](https://www.image-line.com/fl-studio/) [ASIO driver](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/envsettings_audio.htm#FLStudioASIO) - without FL Studio itself!  
-Driver update: `24/11/2020 - 22.21`
+Ready-to-install, official [FL (Fruity Loops) Studio](https://www.image-line.com/fl-studio/) [ASIO driver](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/envsettings_audio.htm#FLStudioASIO) - without FL Studio itself!
+Driver update: `16/02/2024 - 06.20`
 
 ---
 
